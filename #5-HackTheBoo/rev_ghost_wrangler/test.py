@@ -1,0 +1,1 @@
+print(__import__("pwn").xor(b"[GQh{'f}g wLqjLg{ Lt{#`g&L#uLpgu&Lc'&g2n",0x13))
